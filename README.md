@@ -71,6 +71,7 @@
 
 <div align='center'>
   <p>01001000 01100101 01101100 01101100 01101111 00100000 01110111 01101111 01110010 01101100 01100100</p>
+  <p>Unfortunately, my GitHub account, which was over 5 years old, was flagged and I can no longer participate. I created this new one to get back to working on my projects. Welcome to this new journey, now focused on the mobile world.</p>
 </div>
 <img 
       align="left" 
